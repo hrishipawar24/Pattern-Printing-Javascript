@@ -1,4 +1,4 @@
-### Problem : Print a box pattern *
+### Problem : Print a box pattern 
 
  Output :- 
 
