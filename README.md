@@ -19,3 +19,10 @@ Lets we have to see all pattern printing question here.
             1 2 3 
             1 2 3 4 
             1 2 3 4 5 
+- Problem-3
+
+            * * * * *
+            * * * * *
+            * * * * *
+            * * * * *
+            * * * * *
