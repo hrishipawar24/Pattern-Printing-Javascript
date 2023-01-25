@@ -1,7 +1,7 @@
 # Pattern-Printing-Javascript
 Lets solve these all questions in any languages
 - Problem-1
-
+Solution [Java]()
              ********
              *      *
              *      *
