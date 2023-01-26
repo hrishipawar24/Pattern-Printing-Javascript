@@ -14,7 +14,8 @@ Lets solve these all questions in any languages
              ********
      
 - Problem-2
-
+- Solution- [Java]()
+- Solution- [Javascript]()
 
             1 
             1 2 
