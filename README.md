@@ -15,7 +15,7 @@ Lets solve these all questions in any languages
      
 - Problem-2
 - Solution- [Java]()
-- Solution- [Javascript]()
+- Solution- [Javascript](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/02-%20Pattern/02-%20Pattern%20Solution)
 
             1 
             1 2 
