@@ -24,7 +24,7 @@ Lets solve these all questions in any languages
             1 2 3 4 5 
 - Problem-3
 - Solution- [Java]()
-- Solution- [Javascript]()
+- Solution- [Javascript](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/03-%20Pattern/03-%20Pattern%20Solution)
 
               ***** 
               ***** 
