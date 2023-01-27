@@ -23,6 +23,8 @@ Lets solve these all questions in any languages
             1 2 3 4 
             1 2 3 4 5 
 - Problem-3
+- Solution- [Java]()
+- Solution- [Javascript]()
 
               ***** 
               ***** 
