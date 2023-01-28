@@ -32,3 +32,5 @@ Lets solve these all questions in any languages
               ***** 
               ***** 
 - Problem-4
+- Solution- [Java]()
+- Solution- [Javascript]()
