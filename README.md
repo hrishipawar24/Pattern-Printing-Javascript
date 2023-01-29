@@ -33,7 +33,7 @@
               ***** 
 - Problem-4
 - Solution- [Java]()
-- Solution- [Javascript]()
+- Solution- [Javascript](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/04-%20Pattern/04-%20Pattern%20Solution%20js)
 
             * 
             * * 
