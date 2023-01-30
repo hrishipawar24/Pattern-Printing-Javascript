@@ -41,3 +41,5 @@
             * * * * 
             * * * * * 
 - Problem-5
+- Solution- [Java]()
+- Solution- [Javascript]()
