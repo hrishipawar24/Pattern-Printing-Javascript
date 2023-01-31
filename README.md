@@ -44,7 +44,7 @@
  
 
 - Problem-5
-- Solution- [Java]() - Not Available
+- Solution- [Java](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/05-Pattern-Java/05-Pattern-Java-Solution)
 - Solution- [Javascript]() - Not Available
 
             1 
