@@ -1,5 +1,5 @@
 # Pattern-Printing-Javascript
-** Lets solve these all Pattern-Printing questions in any languages**
+** Lets solve these all Pattern-Printing questions in any languages **
 - Problem-1
 - Solution- [Java]() - Not Available
 - Solution- [Javascript](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/01-%20Patterns/01-%20Pattern%20Solution)
@@ -42,6 +42,7 @@
             * * * * * 
 
 
+
 - Problem-5
 - Solution- [Java]() - Not Available
 - Solution- [Javascript]() - Not Available
@@ -51,3 +52,4 @@
             3 3 3 
             4 4 4 4 
             5 5 5 5 5
+
