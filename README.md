@@ -40,6 +40,16 @@
             * * * 
             * * * * 
             * * * * * 
+
+
+
 - Problem-5
-- Solution- [Java]()
-- Solution- [Javascript]()
+- Solution- [Java]() - Not Available
+- Solution- [Javascript]() - Not Available
+
+            1 
+            2 2 
+            3 3 3 
+            4 4 4 4 
+            5 5 5 5 5
+
