@@ -40,6 +40,12 @@
             * * * 
             * * * * 
             * * * * * 
+            
+ 
+
+- Problem-5
+- Solution- [Java]() - Not Available
+- Solution- [Javascript]() - Not Available
 
 - Problem-6
 - Solution- [Java]() - Not Available
@@ -51,10 +57,6 @@
             a b c d 
             a b c d e
 
-
-- Problem-5
-- Solution- [Java]() - Not Available
-- Solution- [Javascript]() - Not Available
 
             1 
             2 2 
