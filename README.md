@@ -1,7 +1,7 @@
 # Pattern-Printing-Javascript
 ** Lets solve these all Pattern-Printing questions in any languages **
 - Problem-1
-- Solution- [Java]() - Not Available
+- Solution- [Java](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/01-Pattern-java/01-Pattern-Java-solution) 
 - Solution- [Javascript](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/01-%20Patterns/01-%20Pattern%20Solution)
 
              ********
