@@ -32,7 +32,7 @@
               ***** 
               ***** 
 - Problem-4
-- Solution- [Java]() - Not Available
+- Solution- [Java](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/04-Pattern%20-%20Java/04-Pattern%20-%20Java-solution)
 - Solution- [Javascript](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/04-%20Pattern/04-%20Pattern%20Solution%20js)
 
             * 
@@ -47,6 +47,12 @@
 - Solution- [Java]() - Not Available
 - Solution- [Javascript]() - Not Available
 
+            1 
+            2 2 
+            3 3 3 
+            4 4 4 4 
+            5 5 5 5 5
+
 - Problem-6
 - Solution- [Java]() - Not Available
 - Solution- [Javascript]() - Not Available
@@ -58,10 +64,6 @@
             a b c d e
 
 
-            1 
-            2 2 
-            3 3 3 
-            4 4 4 4 
-            5 5 5 5 5
+        
 
 
