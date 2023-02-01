@@ -63,7 +63,25 @@
             a b c d 
             a b c d e
 
+- Problem-7
+- Solution- [Java]() - Not Available
+- Solution- [Javascript]() - Not Available
 
+            *********
+             *******
+              *****
+               ***
+                *
+            
+- Problem-8
+- Solution- [Java]() - Not Available
+- Solution- [Javascript]() - Not Available
+
+               *
+              ***  
+             *****
+            *******
+           *********
         
 
 
