@@ -84,7 +84,7 @@
            *********
         
 - Problem-9
-- Solution- [Java]() - Not Available
+- Solution- [Java](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/09-Pattern-Java/09-Pattern-Java-Solution)
 - Solution- [Javascript]() - Not Available
 
             1         1 
