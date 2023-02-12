@@ -96,8 +96,7 @@
               3     3
              2       2
             1         1 
-            
-            
+                        
 - Problem-10
 - Solution- [Java](https://github.com/hrishipawar24/Pattern-Printing-Javascript/blob/main/10-Pattern-Java/10-Pattern-Java-Solution)
 - Solution- [Javascript]() - Not Available
